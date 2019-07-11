@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Letters",
+            "request": "launch",
+            "mainClass": "Letters"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Letters2",
+            "request": "launch",
+            "mainClass": "Letters2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Payroll",
+            "request": "launch",
+            "mainClass": "Payroll"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Simple",
+            "request": "launch",
+            "mainClass": "Simple"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrueFalse",
+            "request": "launch",
+            "mainClass": "TrueFalse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Variable",
+            "request": "launch",
+            "mainClass": "Variable"
+        }
+    ]
+}

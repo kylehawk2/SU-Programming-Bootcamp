@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BookEx",
+            "request": "launch",
+            "mainClass": "BookEx",
+            "projectName": "BookEx_a27aa6b3"
+        }
+    ]
+}

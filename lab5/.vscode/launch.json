@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrettyFors",
+            "request": "launch",
+            "mainClass": "PrettyFors",
+            "projectName": "lab5_125b771f"
+        }
+    ]
+}
