@@ -50,7 +50,7 @@ public class LinearSearch
         }
 
         //Loop through each index of the array and print contents.
-        for (int index = 0; index < arr.length; index++)
+        for (int index = 0; index < arrCount; index++)
         {
             System.out.println("arr[" + index  + "]: " + arr[index]);
         }
