@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.*;
 /**
  * This program displays and sorts words from a String array read from a specific
- * filename, lab8input.txt.
+ * filename, lab9input.txt.
  * 
  * @author Kyle Hawkins
  * @version 1.0
